@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+spidev; platform_machine=='aarch64' or platform_machine=='armv7l'
